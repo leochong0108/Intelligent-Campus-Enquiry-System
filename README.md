@@ -1,4 +1,5 @@
 Intelligent Campus Enquiry System (AI-Powered Campus Assistant)
+
 ![alt text](https://img.shields.io/badge/Laravel-12.0-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/Vue.js-3.0-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
