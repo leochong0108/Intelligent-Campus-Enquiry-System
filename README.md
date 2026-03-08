@@ -76,6 +76,11 @@ private function cosineSimilarity(array $vecA, array $vecB)
 ```
 <br><br>
 📸 Screenshots
+<img width="1454" height="642" alt="image" src="https://github.com/user-attachments/assets/a9396922-3b55-4049-93b4-8893cc5ccee0" />
+<br>
+Admin<br>
+<img width="940" height="1044" alt="image" src="https://github.com/user-attachments/assets/27540936-3f65-4fc4-a172-c986c785aa1a" />
+
 <br><br>
 💡 Challenges & Learnings
 
