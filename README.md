@@ -74,11 +74,23 @@ private function cosineSimilarity(array $vecA, array $vecB)
     return ($magnitudeA * $magnitudeB) == 0 ? 0 : $dotProduct / (sqrt($magnitudeA) * sqrt($magnitudeB));
 }
 ```
-<br><br>
-📸 Screenshots
-<img width="1454" height="642" alt="image" src="https://github.com/user-attachments/assets/a9396922-3b55-4049-93b4-8893cc5ccee0" />
 <br>
-Admin<br>
+
+Demo Video
+
+Youtube: https://youtu.be/OVnZJChI1QI
+
+<br>
+
+📸 Screenshots
+<br>
+
+<img width="1454" height="642" alt="image" src="https://github.com/user-attachments/assets/a9396922-3b55-4049-93b4-8893cc5ccee0" />
+
+<br><br>
+
+Admin
+
 <img width="940" height="1044" alt="image" src="https://github.com/user-attachments/assets/27540936-3f65-4fc4-a172-c986c785aa1a" />
 
 <br><br>
