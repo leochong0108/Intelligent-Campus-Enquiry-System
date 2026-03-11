@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) chatbot designed to automate university i
 
 📖 Overview
 
-The Smart Information Counter solves the problem of limited availability and "hallucinations" in traditional AI chatbots. Unlike generic LLMs, this system retrieves answers strictly from a verified university Knowledge Base (KB).
+The Intelligent Campus Enquiry System solves the problem of limited availability and "hallucinations" in traditional AI chatbots. Unlike generic LLMs, this system retrieves answers strictly from a verified university Knowledge Base (KB).
 
 It features a Hybrid Search Engine (Vector Semantic Search + Fuzzy Logic) to ensure high accuracy. If the AI cannot find an answer with high confidence (>65%), it gracefully falls back to a "Request Human Assistance" flow, creating a Human-in-the-Loop feedback cycle where administrators can convert failed queries into new training data.
 <br><br>
