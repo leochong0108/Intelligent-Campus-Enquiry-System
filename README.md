@@ -78,7 +78,7 @@ private function cosineSimilarity(array $vecA, array $vecB)
 
 Demo Video
 
-Youtube: https://youtu.be/OVnZJChI1QI
+Youtube: https://youtu.be/V2pllSXkeag
 
 <br>
 
